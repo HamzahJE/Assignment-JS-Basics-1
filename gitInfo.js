@@ -36,7 +36,7 @@ let gitInitDefinition="this is the command used to create a .git file in the dir
 */
 
 //CODE HERE
-let gitCloneDefinition=""
+let gitCloneDefinition="This command makes a copy of a repository from an existant URL. You can make a local copy on your machine through it"
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -46,7 +46,7 @@ let gitCloneDefinition=""
 
 //CODE HERE
 
-let gitStatusDefinition=""
+let gitStatusDefinition="it tells you what files are being tracked and which aren't as well as it tells you the state of the working repo"
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -58,7 +58,7 @@ let gitStatusDefinition=""
 
 //CODE HERE
 
-let gitAddDefinition=""
+let gitAddDefinition="this command adds the files you have made changes to the staging area, so you they are ready for the next commit"
 let gitAddCode="git add ."
 
 //////////////////PROBLEM 7////////////////////
@@ -71,7 +71,7 @@ let gitAddCode="git add ."
 */
 
 //CODE HERE
-let gitCommitDefinition=""
+let gitCommitDefinition="It is used to record the changes in the repo. you can think of commit as taking a snapshot. It allows us to record changes."
 let gitCommitCode=`git commit -m "intial commit"`
 
 //////////////////PROBLEM 8////////////////////
@@ -81,4 +81,4 @@ let gitCommitCode=`git commit -m "intial commit"`
 */
 
 //CODE HERE
-let gitPushDefinition=""
+let gitPushDefinition="this command initiates the upload from your local repo to the repo on github"
