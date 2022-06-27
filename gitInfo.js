@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition="Git is a software you install on tyour commputer that does version control and code management"
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -19,6 +20,7 @@
 
 //CODE HERE
 
+let gitHubDefinition="github is an online serivce that uses git to make code and version control details more accessible and easier for collaberations "
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +28,7 @@
 */
 
 //CODE HERE
-
+let gitInitDefinition="this is the command used to create a .git file in the directory of your choice, it initialtes the git process"
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,6 +36,7 @@
 */
 
 //CODE HERE
+let gitCloneDefinition=""
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -43,6 +46,7 @@
 
 //CODE HERE
 
+let gitStatusDefinition=""
 //////////////////PROBLEM 6////////////////////
 /*
     Create a variable called 'gitAddDefinition'.  
@@ -54,6 +58,9 @@
 
 //CODE HERE
 
+let gitAddDefinition=""
+let gitAddCode="git add ."
+
 //////////////////PROBLEM 7////////////////////
 /*
     Create a variable called 'gitCommitDefinition'.  
@@ -64,7 +71,8 @@
 */
 
 //CODE HERE
-
+let gitCommitDefinition=""
+let gitCommitCode=`git commit -m "intial commit"`
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -73,3 +81,4 @@
 */
 
 //CODE HERE
+let gitPushDefinition=""
